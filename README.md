@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey! 😁
+I'm a Mobile App Developer.
+On my entry level Journey, I hope you find what you're looking for.
+You can follow me here and on my [Twitter](https://twitter.com/demmss_).
+
+<p align="left">
+<b>Visitor count</b>
+<br><img src="https://profile-counter.glitch.me/demolaf/count.svg" />
+</p>
 
 <!--
 **demolaf/demolaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
