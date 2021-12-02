@@ -1,6 +1,6 @@
 ### Hey! 😁
 I'm a Mobile App Developer.
-On my entry level Journey, I hope you find what you're looking for.
+With 2+ years experience. I hope you find what you're looking for.
 You can follow me here and on my [Twitter](https://twitter.com/demmss_).
 
 <p align="left">
