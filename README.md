@@ -3,6 +3,8 @@ I'm a Mobile App Developer.
 With 2+ years experience. I hope you find what you're looking for.
 You can follow me here and on my [Twitter](https://twitter.com/demmss_).
 
+[![Ademola's GitHub stats](https://github-readme-stats.vercel.app/api?username=demolaf)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
 <b>Visitor count</b>
 <br><img src="https://profile-counter.glitch.me/demolaf/count.svg" />
