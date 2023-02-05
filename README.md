@@ -4,8 +4,6 @@ You can follow me here and on my [Twitter](https://twitter.com/demmss_).
 
 ![Ademola's GitHub stats](https://github-readme-stats.vercel.app/api?username=demolaf&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&count_private=true)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=demolaf&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demolaf&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)](https://github.com/demolaf?tab=repositories)
 
 <p align="left">
