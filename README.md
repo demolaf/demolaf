@@ -3,11 +3,6 @@ I'm a Software Engineer. I hope you find what you're looking for 🙂.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demolaf&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)](https://github.com/demolaf?tab=repositories)
 
-<p align="left">
-<b>Visitor count</b>
-<br><img src="https://profile-counter.glitch.me/demolaf/count.svg" />
-</p>
-
 <!--
 **demolaf/demolaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
