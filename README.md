@@ -1,7 +1,13 @@
-### Hey! 😁
-I'm a Software Engineer. I hope you find what you're looking for 🙂.
+<p align="center">
+		<img alt="Ademola's Welcome Message"
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hey+there!">
+  <br />
+  <img src="https://hits.dwyl.com/demolaf/demolaf.svg?style=flat-square&show=unique" alt="Ademola's profile views" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demolaf&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)](https://github.com/demolaf?tab=repositories)
+I'm a Software Engineer currently building Mobile applications for Flutter and Native iOS. I got into mobile application development because of how versatile and useful they are in particularly how "mobile" they can be of course 😜. 
+I enjoy building products that create an impact in an individuals day to day life.
+I also love architecting mobile applications from end to end and ensuring I write clean and testable code that can scale long term.
 
 <br />
 <div style="display: flex; align-items: center;">
