@@ -8,6 +8,13 @@ I'm a Software Engineer currently building Mobile applications for Flutter and N
 I enjoy building products that create an impact in an individuals day to day life.
 I also love architecting mobile applications from end to end and ensuring I write clean and testable code that can scale long term.
 
+* 🔭 I’m currently working on 
+  - Developing mobile applications with Flutter and Native iOS
+  - Picking up backend development in the nearest future.
+* 🌱 I’m constantly improving as a Software Engineer
+* 📫 How to reach me:
+  * [LinkedIn](https://www.linkedin.com/in/ademolaf/)
+
 <br />
 <div style="display: flex; align-items: center;">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=demolaf&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Ademola's Github Stats" />
