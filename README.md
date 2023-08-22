@@ -35,5 +35,25 @@ Most applications have a way of handling immediate or long running background ta
 					<a href="https://github.com/demolaf/I-Notify-Kotlin">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=demolaf&repo=I-Notify-Kotlin&theme=dracula"/>
 </a>
+
+<tr>
+  <td width="30%">
+  <h4>Implementing Pagination/Infinite Scrolling in Flutter using Provider Pattern (Stacked Architecture)</h4>
+  
+  </br></br>
+  📃 <a href="https://aob.hashnode.dev/implementing-paginationinfinite-scrolling-in-flutter-using-provider-pattern-stacked-architecture">Article on Hashnode</a>
+	  </br>
+	    </td>
+  <td>
+When loading list views with data in flutter, we load tons of data at a go and this can affect the performance of your application negatively in the long run.
+Loading list views with data in most cases happens asynchronously (might take a while to get the actual data). During this, applications use time and resources to get this data.
+Pagination is the process of dividing a document (could be a list) anything that can be divided into sections, into discrete pages. This how your search engines which I think should be the most common example...
+	</br></br>
+  	Repository for this article can be found here:
+					</br>
+					<a href="https://github.com/demolaf/flutter_list_pagination_stacked">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=demolaf&repo=flutter_list_pagination_stacked&theme=dracula"/>
+</a>
+
 </tbody>
 </table>
