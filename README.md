@@ -14,3 +14,26 @@ I also love architecting mobile applications from end to end and ensuring I writ
 
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=demolaf&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Ademola's GitHub Streaks" />
 </div>
+
+## Articles
+
+<table> 
+<tbody>
+<tr>
+  <td width="30%">
+  <h4>Schedule local notifications on Android (Kotlin) using Work Manager</h4>
+  
+  </br></br>
+  📃 <a href="https://aob.hashnode.dev/schedule-local-notifications-on-android-kotlin-using-work-manager">Article on Hashnode</a>
+	  </br>
+	    </td>
+  <td>
+Most applications have a way of handling immediate or long running background tasks that gives some kind of information or notification or just does something in the background (while your app is “inactive / in the foreground”). This type of process is termed persistent work meaning it will continue to run / remain scheduled even when your app is closed or your device is restarted and there’s also impersistent work which is no longer scheduled after execution.
+	</br></br>
+  	Repository for this article can be found here:
+					</br>
+					<a href="https://github.com/demolaf/I-Notify-Kotlin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=demolaf&repo=I-Notify-Kotlin&theme=dracula"/>
+</a>
+</tbody>
+</table>
