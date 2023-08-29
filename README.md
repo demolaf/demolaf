@@ -34,7 +34,6 @@ I also love architecting mobile applications from end to end and ensuring I writ
   <th width="35%">
 Links
 </th>
-		<td>
 
 </div>
 		</td>
