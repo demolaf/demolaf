@@ -23,6 +23,47 @@ I also love architecting mobile applications from end to end and ensuring I writ
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=demolaf&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Ademola's GitHub Streaks" />
 </div>
 
+## Personal Projects
+
+<table>
+  <tbody>
+  <tr>
+  <th>
+  Project
+  </th>
+  <th width="35%">
+Links
+</th>
+		<td>
+
+</div>
+		</td>
+	</tr>
+	  <tr>
+	  <td>
+		  <h3>Todo (Bi-directional data synchronization)</h3>
+		  <p>This project is aimed at understanding how the Notes app on iOS worked and how it is able to sync data across multiple devices (Bi-directional synchronization also known as Two-way synchronization)</p>
+
+##### Important Libraries Used:	
+- Bloc
+- Realm
+- Firebase
+
+</p>
+		  </p>
+		  </td>
+	  <td>
+		  <div>
+  <a href="https://github.com/demolaf/todo-offline-first">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=demolaf&repo=todo-offline-first&theme=dracula" alt="Todo Offline First Project Repo" />
+  </a>
+</div>
+		  </td>
+	  </tr>
+  </tbody>
+</table>
+
+
 ## Articles
 
 <table> 
