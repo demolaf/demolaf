@@ -40,7 +40,7 @@ Links
 	</tr>
 	  <tr>
 	  <td>
-		  <h3>Todo (Bi-directional data synchronization)</h3>
+		  <h3>Todo Offline-first</h3>
 		  <p>This project is aimed at understanding how the Notes app on iOS worked and how it is able to sync data across multiple devices (Bi-directional synchronization also known as Two-way synchronization)</p>
 
 ##### Important Libraries Used:	
