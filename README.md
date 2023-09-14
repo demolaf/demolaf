@@ -34,7 +34,28 @@ I also love architecting mobile applications from end to end and ensuring I writ
   <th width="35%">
 Links
 </th>
+</div>
+		</td>
+	</tr>
+	  <tr>
+	  <td>
+		  <h3>Movies (iOS/UIKit)</h3>
+		  <p>This project is aimed at implementing the Reactive programming & the VIPER architecture implementation in an iOS application.</p>
 
+##### Important Libraries Used:	
+- Alamofire
+- Realm
+- RxSwift & RxCocoa
+
+</p>
+		  </p>
+		  </td>
+	  <td>
+		  <div>
+  <a href="https://github.com/demolaf/movies-uikit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=demolaf&repo=movies-uikit&theme=dracula" alt="Todo Offline First Project Repo" />
+  </a>
+</div>
 </div>
 		</td>
 	</tr>
@@ -64,44 +85,15 @@ Links
 
 
 ## Articles
+#### Schedule local notifications on Android (Kotlin) using Work Manager
 
-<table> 
-<tbody>
-<tr>
-  <td width="30%">
-  <h4>Schedule local notifications on Android (Kotlin) using Work Manager</h4>
-  
-  </br></br>
   📃 <a href="https://aob.hashnode.dev/schedule-local-notifications-on-android-kotlin-using-work-manager">Article on Hashnode</a>
-	  </br>
-	    </td>
-  <td>
-Most applications have a way of handling immediate or long running background tasks that gives some kind of information or notification or just does something in the background (while your app is “inactive / in the foreground”). This type of process is termed persistent work meaning it will continue to run / remain scheduled even when your app is closed or your device is restarted and there’s also impersistent work which is no longer scheduled after execution.
-	</br></br>
-  	Repository for this article can be found here:
-					</br>
-					<a href="https://github.com/demolaf/I-Notify-Kotlin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=demolaf&repo=I-Notify-Kotlin&theme=dracula"/>
-</a>
 
-<tr>
-  <td width="30%">
-  <h4>Implementing Pagination/Infinite Scrolling in Flutter using Provider Pattern (Stacked Architecture)</h4>
-  
-  </br></br>
+[Repository for this article]("https://github.com/demolaf/I-Notify-Kotlin")
+
+
+#### Implementing Pagination/Infinite Scrolling in Flutter using Provider Pattern (Stacked Architecture)
+
   📃 <a href="https://aob.hashnode.dev/implementing-paginationinfinite-scrolling-in-flutter-using-provider-pattern-stacked-architecture">Article on Hashnode</a>
-	  </br>
-	    </td>
-  <td>
-When loading list views with data in flutter, we load tons of data at a go and this can affect the performance of your application negatively in the long run.
-Loading list views with data in most cases happens asynchronously (might take a while to get the actual data). During this, applications use time and resources to get this data.
-Pagination is the process of dividing a document (could be a list) anything that can be divided into sections, into discrete pages. This how your search engines which I think should be the most common example...
-	</br></br>
-  	Repository for this article can be found here:
-					</br>
-					<a href="https://github.com/demolaf/flutter_list_pagination_stacked">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=demolaf&repo=flutter_list_pagination_stacked&theme=dracula"/>
-</a>
 
-</tbody>
-</table>
+[Repository for this article](https://github.com/demolaf/flutter_list_pagination_stacked)
