@@ -89,7 +89,7 @@ Links
 
   📃 <a href="https://aob.hashnode.dev/schedule-local-notifications-on-android-kotlin-using-work-manager">Article on Hashnode</a>
 
-[Repository for this article]("https://github.com/demolaf/I-Notify-Kotlin")
+[Repository for this article](https://github.com/demolaf/I-Notify-Kotlin)
 
 
 #### Implementing Pagination/Infinite Scrolling in Flutter using Provider Pattern (Stacked Architecture)
