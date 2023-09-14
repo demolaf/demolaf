@@ -16,7 +16,7 @@ I also love architecting mobile applications from end to end and ensuring I writ
 * 📫 How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/ademolaf/)
 
-## Open Source Projects
+## Example Projects
 
 <table>
   <tbody>
