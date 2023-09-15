@@ -33,7 +33,7 @@ Links
 	  <tr>
 	  <td>
 		  <h3>Movies (iOS/UIKit)</h3>
-		  <p>This project is aimed at implementing the Reactive programming & the VIPER architecture implementation in an iOS application.</p>
+		  <p>This project is aimed at implementing the VIPER architecture and reactive programming in an iOS application.</p>
 
 ##### Important Libraries Used:	
 - Alamofire
