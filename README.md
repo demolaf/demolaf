@@ -82,6 +82,8 @@ Links
 
   📃 <a href="https://medium.com/@demmss/creating-development-environments-for-firebase-using-the-very-good-flutterfire-clis-in-flutter-250eba52bd4d">Article on Medium</a>
 
+[Repository for this article](https://github.com/demolaf/firebase-environments-setup)
+
 #### Schedule local notifications on Android (Kotlin) using Work Manager
 
   📃 <a href="https://aob.hashnode.dev/schedule-local-notifications-on-android-kotlin-using-work-manager">Article on Hashnode</a>
