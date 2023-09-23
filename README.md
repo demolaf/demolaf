@@ -16,6 +16,11 @@ I also love architecting mobile applications from end to end and ensuring I writ
 * 📫 How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/ademolaf/)
 
+<div style="display: flex; align-items: center;">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=demolaf&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Ademola's Github Stats" />
+
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=demolaf&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Ademola's GitHub Streaks" />
+
 ## Example Projects
 
 <table>
