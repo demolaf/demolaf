@@ -1,11 +1,4 @@
-<p align="center">
-		<img alt="Ademola's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hey+there!">
-  <br />
-
-I'm a Software Engineer currently building Mobile applications for Flutter and Native iOS. I got into mobile application development because of how versatile and useful they are in particularly how "mobile" they can be of course 😜. 
-I enjoy building products that create an impact in an individuals day to day life.
-I also love architecting mobile applications from end to end and ensuring I write clean and testable code that can scale long term.
+I'm a Software Engineer currently building Mobile applications for Flutter and Native iOS.
 
 * 🔭 I’m currently working on 
   - Developing mobile applications with Flutter and Native iOS
