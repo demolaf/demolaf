@@ -7,9 +7,6 @@ I'm a Software Engineer currently building Mobile applications for Flutter and N
 * 📫 How to reach me:
   * [LinkedIn](https://www.linkedin.com/in/ademolaf/)
 
-<div style="display: flex; align-items: center;">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=demolaf&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Ademola's Github Stats" />
-
 ## Example Projects
 
 <table>
