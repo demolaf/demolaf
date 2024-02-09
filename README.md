@@ -4,5 +4,3 @@ I'm a Software Engineer currently building Mobile applications for Flutter and N
   - Developing mobile applications with Flutter and Native iOS
   - Picking up backend development in the nearest future.
 * 🌱 I’m constantly improving as a Software Engineer
-* 📫 How to reach me:
-  * [LinkedIn](https://www.linkedin.com/in/ademolaf/)
