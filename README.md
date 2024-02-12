@@ -1,4 +1,4 @@
-I'm a Software Engineer currently building Mobile applications for Flutter and Native iOS.
+I'm a Software Engineer currently building Mobile applications for Native iOS and Flutter.
 
 * 🔭 I’m currently working on 
   - Developing mobile applications with Flutter and Native iOS
