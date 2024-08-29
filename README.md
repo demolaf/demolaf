@@ -47,6 +47,9 @@ Links
 		  </td>
 	  <td>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=demolaf&repo=movies-uikit&theme=dracula" alt="Movies UIKit Repo" />
+    <p align="center">
+  <a href="https://github.com/demolaf/movies-uikit">Source Code</a>
+  </p>
   </tr>
   	  <tr>
 	  <td>
@@ -59,6 +62,9 @@ Links
 		  </td>
 	  <td>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=demolaf&repo=todo-offline-first&theme=dracula" alt="Todo Two Way Sync project Repo" />
+  <p align="center">
+  <a href="https://github.com/demolaf/todo-offline-first">Source Code</a>
+  </p>
   </tr>
 	</tbody>
 </table>
